@@ -1,5 +1,5 @@
 # Covid_Detection_using_CNN_from_X-Ray
-Detect COVID-19 from Chest X-Rays by building a Convolution Neural Network. 
+Detect COVID-19 from Chest X-Rays by building a Convolutional Neural Network. 
 
 
 ## Dataset Details
